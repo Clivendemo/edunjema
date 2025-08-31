@@ -1,10 +1,10 @@
-# edunjema3
+# edunjema
 
 A new Flutter project.
 
 # 📘 KICD Lesson Planner – AI-Powered App for Kenyan Teachers
 
-A powerful mobile application built with Flutter that helps Kenyan teachers easily generate KICD-aligned lesson plans and learner notes using AI. The app supports the **Competency-Based Curriculum (CBC)** and **Competency-Based Education (CBE)**, currently implemented up to Grade 10.
+A powerful mobile application built with Flutter that helps Kenyan teachers easily generate KICD-aligned lesson plans and learner notes using inbuilt data and AI. The app supports the **Competency-Based Curriculum (CBC)** and **Competency-Based Education (CBE)**, currently implemented up to Grade 10.
 
 ---
 
